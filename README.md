@@ -4,6 +4,6 @@
 - I'm studying at FI MUNI.
 - Enthusiastic about open-source, Haskell, functional programming, containers and Linux.
 
-## Stats
+![mfocko's github stats](https://github-readme-stats.vercel.app/api?username=mfocko&show_icons=true&theme=tokyonight)
 
-![mfocko's github stats](https://github-readme-stats.vercel.app/api?username=mfocko&show_icons=true&theme=nord)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mfocko&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mfocko&redirect=true)
