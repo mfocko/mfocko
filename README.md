@@ -12,6 +12,8 @@
 - I'm studying at FI MUNI.
 - Enthusiastic about open-source, Haskell, functional programming, containers and Linux.
 
+[![@mfocko's Holopin board](https://holopin.io/api/user/board?user=mfocko)](https://holopin.io/@mfocko)
+
 <table>
   <tr>
     <td>
