@@ -9,7 +9,7 @@
 <a href="https://twitch.tv/m4tt_314">![Twitch](https://img.shields.io/badge/twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)</a>
 
 - I'm working in Red Hat in Packit Team.
-- I'm studying at FI MUNI.
+- I'm tutoring few seminars at FI MUNI.
 - Enthusiastic about open-source, Haskell, functional programming, containers and Linux.
 
 [![@mfocko's Holopin board](https://holopin.io/api/user/board?user=mfocko)](https://holopin.io/@mfocko)
