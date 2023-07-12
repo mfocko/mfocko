@@ -4,6 +4,8 @@
 )</a>
 <a href="https://gitlab.com/mfocko">![GitLab](https://img.shields.io/badge/GitLab-888888?style=for-the-badge&logo=gitlab&logoColor=white)</a>
 <a href="https://t.me/mfocko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a rel="me" href="https://fosstodon.org/@m4tt_314">![Fosstodon](https://img.shields.io/badge/Fosstodon-888888?style=for-the-badge&logo=mastodon)</a>
+<a rel="me" href="https://hachyderm.io/@m4tt_314">![Hachyderm.io](https://img.shields.io/badge/Hachyderm-888888?style=for-the-badge&logo=mastodon)</a>
 <a href="https://www.reddit.com/user/mfocko">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
 <a href="https://twitter.com/m4tt_314">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://twitch.tv/m4tt_314">![Twitch](https://img.shields.io/badge/twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)</a>
