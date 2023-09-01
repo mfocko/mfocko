@@ -16,15 +16,7 @@
 
 [![@mfocko's Holopin board](https://holopin.io/api/user/board?user=mfocko)](https://holopin.io/@mfocko)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mfocko&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=mfocko&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=mfocko&cover_image=true&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=mfocko&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfocko&theme=tokyonight)
+
+[![](https://spotify-github-profile.vercel.app/api/view?uid=mfocko&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=mfocko&redirect=true)
