@@ -11,7 +11,7 @@
 - I'm working in Red Hat in Packit Team.
 - I'm tutoring few seminars at FI MUNI.
 - Enthusiastic about open-source, Haskell, functional programming, containers and Linux.
-- Coffee freak, anime addict…
+- Coffee freak, anime addict, tram stalker…
 
 [![@mfocko's Holopin board](https://holopin.io/api/user/board?user=mfocko)](https://holopin.io/@mfocko)
 
